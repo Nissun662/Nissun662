@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Nissun662
-- 👀 I’m interested in playing soccer, working out and making new friends.
-- 🌱 I’m currently using this platform for my Data Processing and Visualization class.
-- 💞️ I’m looking to collaborate with my classmates to get the most out of this class.
 - 📫 How to reach me email: sunarnishan21@gmail.com
 
 <!---
